@@ -7,8 +7,6 @@ O projeto permite cadastrar jogos, editar informações, pesquisar, ordenar, fav
 ## 🖼️ Interface
 
 ![Interface do InSomnia Games Manager](screenshots/interface1.png)
-![Interface do InSomnia Games Manager](screenshots/interface3.png)
-![Interface do InSomnia Games Manager](screenshots/interface4.png)
 
 ## ✨ Funcionalidades
 
