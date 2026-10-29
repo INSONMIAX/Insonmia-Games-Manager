@@ -4,7 +4,8 @@ Aplicação desktop desenvolvida em **Python com Tkinter** para organizar e gere
 
 O projeto permite cadastrar jogos, editar informações, pesquisar, ordenar, favoritar e acompanhar estatísticas da coleção através de uma interface gráfica com diferentes temas visuais.
 
-## 🖼️ Interface
+## 🖼️ Interface 
+(São 8 temas, com várias referências, para poder visualizar todos testa o programa ;) 
 
 ![Interface do InSomnia Games Manager](screenshots/Interface1.png)
 
