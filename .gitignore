@@ -1,0 +1,12 @@
+jogo.txt
+tema.txt
+
+.venv/
+.idea/
+
+__pycache__/
+*.pyc
+
+build/
+dist/
+*.spec
